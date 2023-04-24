@@ -1,0 +1,3 @@
+G:/Programming/C++/Chapter 12/Turbojet_testcase_VIPER_off_design_function/cmake-build-debug/CMakeFiles/Turbojet_testcase_VIPER_off_design_function.dir
+G:/Programming/C++/Chapter 12/Turbojet_testcase_VIPER_off_design_function/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Programming/C++/Chapter 12/Turbojet_testcase_VIPER_off_design_function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
