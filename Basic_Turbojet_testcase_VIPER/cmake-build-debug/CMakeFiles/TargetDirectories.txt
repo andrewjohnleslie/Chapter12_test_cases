@@ -1,0 +1,3 @@
+G:/Programming/C++/Chapter 12/Basic_Turbojet_testcase_VIPER/cmake-build-debug/CMakeFiles/Test_cases.dir
+G:/Programming/C++/Chapter 12/Basic_Turbojet_testcase_VIPER/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Programming/C++/Chapter 12/Basic_Turbojet_testcase_VIPER/cmake-build-debug/CMakeFiles/rebuild_cache.dir
